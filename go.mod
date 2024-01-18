@@ -1,6 +1,6 @@
 module github.com/MaxBGreenberg/hebcal
 
-go 1.21.5
+go 1.13
 
 require (
 	github.com/MaxBGreenberg/hebcal-go v0.0.0-20240118011159-0e74ca6b4a13
